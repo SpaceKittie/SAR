@@ -26,7 +26,7 @@ This project demonstrates an automated product recommendation system using Micro
 
 ![SAR Model Overview](sar.png)
 
-> The SAR algorithm implementation is based on [Microsoft's Product Recommendations documentation](https://github.com/Microsoft/Product-Recommendations/blob/master/doc/sar.md).
+> The SAR algorithm implementation is based on [Microsoft's Recommenders Library](https://github.com/Microsoft/Product-Recommendations/blob/master/doc/sar.md).
 
 ### Business Context
 
